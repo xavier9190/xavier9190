@@ -18,10 +18,6 @@
  </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=32&duration=4000&pause=2000&color=710E8A&center=true&vCenter=true&repeat=false&random=false&width=800&height=70&lines=Voc%C3%AA+pode+me+achar+clicando+em+um+dos+dois+abaixo" />
-</p>
-
-<p align="center">
   <a href="https://linkedin.com/in/pedrohenriquereisxavier">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
@@ -37,7 +33,7 @@
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&duration=4000&pause=2000&color=0B41BD&center=true&vCenter=true&repeat=false&random=false&width=500&height=70&lines=%F0%9F%A7%B0Minhas+ferramentas+e+linguagens%F0%9F%A7%B0" alt="Typing SVG"" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&duration=4000&pause=2000&color=0B41BD&center=true&vCenter=true&repeat=false&random=false&width=500&height=70&lines=Minhas+ferramentas+e+linguagens" alt="Typing SVG"" />
 </p>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=github,git,figma,py,mysql,vscode" />
@@ -45,13 +41,5 @@
 </div>
 
 
----
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=28&duration=4000&pause=2000&color=550B68&center=true&vCenter=true&random=false&width=500&height=70&lines=%F0%9F%93%8AAlguns+de+meus+projetos%F0%9F%93%8A" />
-</p>
-
-<p align="center">
-<a href="https://pedrohenriquereisx.wixstudio.io/myportfolio"> Acesse meu portifólio clicando aqui </a>
-</p>
 
 
