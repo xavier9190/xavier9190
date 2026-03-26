@@ -6,14 +6,16 @@
 ---
 <h2 align="left">Sobre mim</h2>
 
+<br/>
+
 <div align="left">
+  
   > - 👨‍💻 Bolsista em Dados e IA no **Grupo Moura**
+  >
+> -  🌱 Atualmente estou aprofundando meus conhecimentos em **Powerbi e Análise de Dados**
   > 
-  > - 🌱 Atualmente estou aprofundando meus conhecimentos em **Powerbi e Análise de Dados**
-  > 
-  > - 🚀 Estudante de Engenharia de Software, 4° semestre.
+> - 🚀 Estudante de Engenharia de Software, 4° semestre.
  </div>
-##
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=32&duration=4000&pause=2000&color=710E8A&center=true&vCenter=true&repeat=false&random=false&width=800&height=70&lines=Voc%C3%AA+pode+me+achar+clicando+em+um+dos+dois+abaixo" />
