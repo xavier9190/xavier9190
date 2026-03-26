@@ -4,13 +4,15 @@
 </p>
 
 ---
-<h2 align="center">Apaixonado por Ciência, Análise de Dados</h2>
-<br>
+<h2 align="left">Sobre mim</h2>
 
-<p align="center"> 
- Atualmente estou estudando Python, SQL e Machine Learning
-</p>
-
+<div align="left">
+  > - 👨‍💻 Bolsista em Dados e IA no **Grupo Moura**
+  > 
+  > - 🌱 Atualmente estou aprofundando meus conhecimentos em **Powerbi e Análise de Dados**
+  > 
+  > - 🚀 Estudante de Engenharia de Software, 4° semestre.
+ </div>
 ##
 
 <p align="center">
